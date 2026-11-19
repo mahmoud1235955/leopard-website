@@ -1,0 +1,11 @@
+[
+ {"capability":"code","source":"Vite React + react-router-dom (9 pages + 5 service pages, EN/AR)","outcome":"migrate","status":"verified","next_action":"none"},
+ {"capability":"styles/theme","source":"tailwind v3 config navy/brand/gold + component classes","outcome":"ported to Tailwind v4 tokens","status":"verified","next_action":"none"},
+ {"capability":"schema","source":"none (supabase-js listed but never imported)","outcome":"not applicable","status":"verified","next_action":"none"},
+ {"capability":"records","source":"none","outcome":"not applicable","status":"verified","next_action":"none"},
+ {"capability":"auth","source":"none","outcome":"not applicable","status":"verified","next_action":"none"},
+ {"capability":"storage","source":"none","outcome":"not applicable","status":"verified","next_action":"none"},
+ {"capability":"quote/contact forms","source":"mailto + WhatsApp links, no server","outcome":"preserved","status":"verified","next_action":"none"},
+ {"capability":"secrets","source":"none","outcome":"not applicable","status":"verified","next_action":"none"},
+ {"capability":"assets","source":"public/logo.svg, sitemap.xml, robots.txt","outcome":"copied","status":"verified","next_action":"none"}
+]

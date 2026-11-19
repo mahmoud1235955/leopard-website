@@ -1,0 +1,5 @@
+[
+  { "id": "corn", "name": { "ar": "ذرة صفراء", "en": "Yellow Corn" } },
+  { "id": "alfalfa", "name": { "ar": "برسيم (ألفالفا)", "en": "Alfalfa" } },
+  { "id": "soybeanMeal", "name": { "ar": "كسب صويا", "en": "Soybean Meal" } }
+]
